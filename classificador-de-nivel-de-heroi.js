@@ -1,9 +1,10 @@
-let heroi
+let heroi = 789
 let xp
 
 switch (xp) {
-    case ">=":
+    case >= 1000:
         console.log("Ferro");
         break;
         
+
 }
