@@ -1,10 +1,11 @@
-let heroi = 789
-let xp
-
-switch (xp) {
-    case >= 1000:
-        console.log("Ferro");
+let heroi = "Tânatos";
+let xp = 600;
+let nivel;
+switch (true) {
+    case xp < 1001 :
+        nivel = "Ferro";
+        console.log("O herói " + heroi + " está no nível " + nivel  + "!");
         break;
-        
+
 
 }
