@@ -1,4 +1,4 @@
-let heroi = "Tânatos";
+let heroi = prompt("Digite o nome do herói: ");
 let xp = 4555;
 let nivel;
 switch (true) {
