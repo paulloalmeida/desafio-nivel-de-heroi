@@ -1,5 +1,6 @@
 let heroi = "Batman"
 let xp = 4555;
+let nivel
 switch (true) {
     case xp <= 1000:
         nivel = "Ferro";
