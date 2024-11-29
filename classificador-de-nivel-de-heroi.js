@@ -26,9 +26,8 @@ switch (true) {
     case xp > 10000:
         nivel = "Radiante"
         break;
-    
-console.log("O herói " + heroi + " está no nível " + nivel  + "!");
-    
+    console.log("O herói " + heroi + " está no nível " + nivel  + "!");
+    break;
 
 
 }
