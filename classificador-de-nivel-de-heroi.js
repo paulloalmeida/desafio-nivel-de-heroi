@@ -1,5 +1,5 @@
 let heroi = "Batman";
-let xp = 10100;
+let xp = 10000;
 let nivel;
 
   switch (true) {
