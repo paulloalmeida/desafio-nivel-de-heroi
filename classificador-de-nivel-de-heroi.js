@@ -31,7 +31,7 @@ let nivel;
         nivel = "Imortal";
         console.log("O herói " + heroi + " está no nível " + nivel  + "!");
         break;
-    case xp > 10000:
+    default:
         nivel = "Radiante";
         console.log("O herói " + heroi + " está no nível " + nivel  + "!");
         break;
