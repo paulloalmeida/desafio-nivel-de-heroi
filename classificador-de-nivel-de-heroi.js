@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-let heroi = "Zord"
-=======
 let heroi = "Batman"
->>>>>>> 35cee851037439d0e6263ed9f972d184cda03925
-let xp = 4555;
 let nivel;
 switch (true) {
     case xp <= 1000:
